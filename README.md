@@ -1,4 +1,4 @@
--👋 Hi, I’m @Amit Lamsal, a passionate coder and IT enthusiast from Nepal, currently running my own tech company, Code Zenith Private Limited.
+-👋 Hi, I’m @Amit Lamsal, a passionate coder and IT enthusiast from Nepal.
 
 -👀 I’m deeply interested in coding, specializing in network technologies for high-density environments like hospitals, and I’m also keen on web development, with a particular focus on creating intuitive and impactful healthcare solutions.
 
